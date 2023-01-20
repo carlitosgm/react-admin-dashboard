@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> esta va a ser la primera instalación de Vuexy en react para ver si de esta manera funciona.
+        esta va a ser la primera instalación de Vuexy en react para ver si de esta manera funciona.
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+    
         </a>
       </header>
     </div>
